@@ -1,4 +1,4 @@
-# LwM2M-HOPCore
+# Embedded-TI-HOPCore-Public
 
 Please, go to the wiki to find the information
-- <https://github.com/davidfdezros/LwM2M-HOPCore/wiki>
+- <https://github.com/HOP-Ubiquitous/Embedded-TI-HOPCore-Public/wiki>
