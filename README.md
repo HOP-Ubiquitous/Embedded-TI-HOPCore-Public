@@ -1,4 +1,4 @@
-# Embedded-TI-HOPCore-Public
+# HOP Ubiquitious Wiki
 
 Please, go to the wiki to find the information
-- <https://github.com/HOP-Ubiquitous/Embedded-TI-HOPCore-Public/wiki>
+- <https://github.com/HOP-Ubiquitous/Wiki/wiki>
